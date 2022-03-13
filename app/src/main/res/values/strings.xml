@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RelativeLayoutApp</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="button_label">Submit</string>
+    <string name="name_input_warning">Oops! You have to provide both first and last name! Please try again.</string>
+    <string name="display_name">Hello %1$s!</string>
+</resources>
